@@ -28,6 +28,22 @@ For every opportunity, classify separately:
 | Crafts Council | Verified | Official role links return 200 | Live/role links exist | Institution relevant, roles wrong level | Low priority / reference only | Keep as watch item, not Maia target |
 | Raw Daisies | Verified | Instagram/source and site links captured | Deadline March 13 passed | Creative-media but imperfect | Expired reference | Keep as discovery pattern only |
 
+## New items from 2026-05-06 image batch (86 WhatsApp screenshots)
+
+| Item | Organisation | Role/source | Timing | Fit | Correct status | Action |
+|---|---|---|---|---|---|---|
+| All Purpose Studio | Unverified — verify via allpurpose.studio | @allpurpose.studio Instagram direct post — 264 likes, ~26 Apr 2026 | Starting May 2026 — URGENT | Strong — creative/design intern London | Active lead — urgent | Verify org, apply immediately at jobs@allpurpose.studio |
+| Luke Halls Studio | Verifiable via lukehalls.com | Direct post from studio account — office@lukehalls.com + www.lukehalls.com given | 2026/7 — open now | Exceptional — moving image design for live performance, values illustration/design | Promote — high priority | Build page (done), apply at office@lukehalls.com |
+| Jack Nimble | Verifiable via wearejacknimble | @wearejacknimble — own post, 949 likes, 4-slide carousel | Autumn 2026 — apply now | Strong — creative studio with branding/campaigns/cultural work | Promote — apply now | Build page (done), verify full details at studio website |
+| TwoSee Studio | Verifiable via two-see.com | @twosee_studio — own post, 141 likes, posted ~19 Apr 2026 | Posted April 2026 — likely still open | Good — music/events creative studio, graphic design intern | Promote — apply now | Build page (done), apply at INFO@TWO-SEE.COM |
+| ARRCC | Verifiable via @_arrcc (verified account) | @_arrcc Instagram — verified blue tick | 22 Jun–10 Jul 2026, deadline 17 May 2026 | Adjacent — interior/luxury architecture | Homepage card — open deadline | Add card (done). Apply if spatial/arch design is in scope |
+| Hachette UK Design Internship | Verifiable via hachette.co.uk | @hachetteuk / @octopus_books_ Instagram | Summer 2026 — deadline unknown, verify | Good — publishing design, strong institution | Homepage card — verify deadline | Add card (done), check hachette.co.uk for deadline |
+| Hyld Studio | Unverified — verify via hyldstudio.com | @hyldstudio Instagram — julie.hyld@hyldstudio.com | Unclear | Strong — art direction/creative producer, part-time | Research lead | Verify org and timing |
+| Bruce Mau Design | Verified — world-renowned studio, brucemaudesign.com | @brucemaudesign — undated evergreen post | Evergreen — no deadline | Strong — legendary design studio | Research lead / open call | Speculative application to talent@brucemaudesign.com |
+| DixonBaxi Brand & Production Intern | Verified | Via @_creativelives — London Living Wage | Deadline 29 Apr 2026 — just expired | Strong studios — watch for next cycle | Expired reference | Note for future cycle |
+| DEPT Creative & Design Internship | Verified | Via @_creativelives — London Living Wage | Deadline 18 Mar 2026 — expired | Strong — digital creative agency | Expired reference | Watch for next cycle |
+| UAL Arts Temps | Verified — artstemps.arts.ac.uk | @ualartstemps Instagram — regular posts | Rolling / varies | Useful discovery source for temp design roles | Discovery source | Follow @ualartstemps |
+
 ## Unsorted/source item audit
 
 | Item | Current evidence | Correct status | Action |
