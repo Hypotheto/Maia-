@@ -59,6 +59,16 @@ For every opportunity, classify separately:
 | Frist Art Museum | Official site verified; screenshot indicates Summer 2026 internship timing already passed | Expired reference | Keep for pattern only |
 | Archived Dreams / Puma | Ambiguous creative campaign, not clearly a role | Not a job / hold | Do not promote |
 
+## Pages built 2026-05-06 (second pass — first-batch items)
+
+| Page | Status | Notes |
+|---|---|---|
+| Bompas & Parr — Creative Producer & Junior Art Director | Built — `opportunities/bompas-and-parr-creative-producer.html` | Direct @bompasandparr post, 797 likes, Barbican, 4-slide carousel. Application details on slides 2–4 not captured. Verify at bompasandparr.com. Added to High Interest on homepage. |
+| Art & Graft 2026 Internship | Built — `opportunities/art-and-graft-internship.html` | @artandgraft official post, "2026 INTERNSHIP OPEN" explicit, 447 likes. Deadline unknown — verify at artandgraft.com. Added to Worth Reviewing. |
+| Fraser Muggeridge Studio — Junior Graphic Designer | Built — `opportunities/fraser-muggeridge-junior-designer.html` | @frasermuggeridgestudio direct post, 996 likes, liked by simongoode. Deadline unknown. Added to Worth Reviewing. |
+| HarperCollins UK Design Internship | Built — `opportunities/harpercollins-design-internship.html` | @harpercollinsuk_design official post, 415 likes, 3–4 positions, ~1 month each, summer break, London Living Wage, cover design & artworking. Deadline not captured — verify at harpercollins.co.uk. Added to Worth Reviewing. |
+| CMDS — 8 Roles | Homepage card only | Via @bountyhunters_ / @cansumerdamert, deadline 27 June 2026, 6,459 likes, Remote/London. Brand Designer and Graphic Designer most relevant to Maia. |
+
 ## Immediate correction already made locally
 
 ### Imagineers Film
