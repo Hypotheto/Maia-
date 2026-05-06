@@ -137,3 +137,28 @@ footer { margin-top: 30px; color: #6b6a66; font-size: 13px; }
 .anchor-target {
   scroll-margin-top: 24px;
 }
+
+/* ---- action system ---- */
+.badge.urgent { background: #fdecea; color: #c0392b; }
+.card--faded { opacity: 0.32; transition: opacity 0.2s; }
+
+.action-panel-inner {
+  background: #faf8f3; border: 1px solid #e5e2db;
+  border-radius: 12px; padding: 16px 20px; margin-bottom: 18px;
+}
+.ap-status-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-bottom: 12px; }
+.ap-status { display: inline-block; padding: 6px 12px; border-radius: 999px; font-size: 13px; font-weight: 700; }
+.ap-row { font-size: 13px; color: #5c5b57; }
+.ap-label { font-weight: 600; margin-right: 6px; }
+.ap-buttons { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.ap-btn { padding: 6px 12px; border: none; border-radius: 999px; font-size: 12px; font-weight: 600; cursor: pointer; }
+.ap-btn:hover { opacity: 0.75; }
+.ap-notes { margin-bottom: 12px; }
+.ap-notes label { display: block; font-size: 13px; font-weight: 600; color: #5c5b57; margin-bottom: 6px; }
+.ap-notes textarea { width: 100%; min-height: 70px; border: 1px solid #e5e2db; border-radius: 8px; padding: 8px 12px; font-family: inherit; font-size: 13px; background: #fff; resize: vertical; box-sizing: border-box; }
+.ap-export-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.ap-export-btn { padding: 6px 12px; border: 1px solid #cfc7b8; border-radius: 8px; font-size: 12px; font-weight: 600; cursor: pointer; background: #fff; color: #5c5b57; display: inline-block; }
+.ap-export-btn:hover { background: #f0ede7; }
+.status-group { margin-bottom: 20px; }
+#toggle-faded { padding: 6px 14px; border: 1px solid #cfc7b8; border-radius: 999px; background: #fff; font-size: 12px; font-weight: 600; cursor: pointer; color: #5c5b57; }
+#toggle-faded:hover { background: #f0ede7; }
