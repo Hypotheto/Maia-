@@ -131,7 +131,7 @@ Git push is **blocked from the Linux sandbox** — the `.git/config` file is unr
 ```powershell
 cd C:\Users\HypoClaw\.openclaw\workspace\projects\maia
 git add -A
-git commit -m "Add action system, review page, 31 card IDs, tracker section, Obsidian handoff"
+git commit -m "Add action system, review page, 31 card IDs, tracker section, review thumbnails + links"
 git push
 ```
 
@@ -149,7 +149,28 @@ git push
 8. Updated all 18 detail pages with action panel, meta tags (card-id, deadline, last-checked), script include
 9. Updated `index.html` — all 31 cards tagged with data-card-id, deadline data where known, tracker section, 86→31 explainer, script include
 10. Built `review.html` — dropped items audit in 5 categories
-11. Wrote this handoff doc
+11. Added thumbnails to Category 1 rows in review.html (4 real images, 1 📷 placeholder for VMV)
+12. Converted all 30 @handles across Categories 1–4 of review.html to clickable Instagram links
+13. Added "How to complete the image mapping" guide at bottom of review.html
+14. Wrote this handoff doc
+
+---
+
+## review.html thumbnail status (as of end of session 2)
+
+Category 1 — **4 of 5 rows have real thumbnails:**
+- `harpercollins-slide-1.jpg` ← `WhatsApp Image 2026-04-20 at 16.10.14 (4).jpeg`
+- `harpercollins-slide-2.jpg` ← `WhatsApp Image 2026-04-20 at 16.10.16 (2).jpeg`
+- `lordaeck-slide-1.jpg` ← `WhatsApp Image 2026-04-20 at 16.10.14.jpeg`
+- `lordaeck-slide-2.jpg` ← `WhatsApp Image 2026-04-20 at 16.10.15 (1).jpeg`
+- VMV Studio (5th row) — 📷 placeholder, needs image from 16:18 timestamp group
+
+Categories 2, 3, 4 — all have Instagram links but **no thumbnails yet.** To add them:
+1. Read `IMAGE_BATCH_REVIEW.md` to find which timestamp group each org falls in
+2. Read the specific WhatsApp image file to confirm it shows that org
+3. Copy to `site/assets/review/org-role-keyword.jpg`
+4. In review.html, find that row's Source `<td>` and prepend: `<img src="../assets/review/FILENAME.jpg" style="width:110px;display:block;margin-bottom:4px;border-radius:3px;border:1px solid #e8e4dc;">`
+5. The "How to complete" section at the bottom of review.html has the full guide
 
 ---
 
